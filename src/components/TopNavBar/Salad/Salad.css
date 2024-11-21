@@ -1,0 +1,31 @@
+.recipe-item {
+    display: flex;
+    align-items: center;
+}
+
+.recipe-name {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 5px;
+}
+
+.tag {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 13px;
+    margin-top: 40px;
+    border-radius: 20px;
+    background-color: #373737;
+}
+
+.icon {
+    margin-right: 6px;
+}
+
+.recipe-image {
+    border-radius: 500px;
+    margin: 0px 20px;
+    height: 200px;
+    width: 200px;
+}
